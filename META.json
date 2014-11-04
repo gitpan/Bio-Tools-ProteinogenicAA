@@ -1,5 +1,5 @@
 {
-   "abstract" : "unknown",
+   "abstract" : "A object list of proteinogenic amino acids.",
    "author" : [
       "Felipe da Veiga Leprevost <leprevost@cpan.org>"
    ],
@@ -48,5 +48,5 @@
          "url" : "https://github.com/Leprevost/Bio-Tools-ProteinogenicAA"
       }
    },
-   "version" : "0.02"
+   "version" : "0.021"
 }

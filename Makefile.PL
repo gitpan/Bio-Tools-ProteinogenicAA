@@ -7,7 +7,7 @@ WriteMakefile(
     NAME             => 'Bio::Tools::ProteinogenicAA',
     AUTHOR           => q{Felipe da Veiga Leprevost <leprevost@cpan.org>},
     VERSION_FROM     => 'lib/Bio/Tools/ProteinogenicAA.pm',
-    ABSTRACT_FROM    => 'lib/Bio/Tools/ProteinogenicAA.pm',
+    ABSTRACT_FROM    => 'README.pod',
     LICENSE          => 'perl',
     PL_FILES         => {},
     MIN_PERL_VERSION => 5.006,
