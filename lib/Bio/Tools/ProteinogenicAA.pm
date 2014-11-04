@@ -7,7 +7,7 @@ use Moose;
 use namespace::autoclean;
 use Bio::Tools::ProteinogenicAA::AAInfo;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 has 'aminoacids' => (
 	is	=>	'rw',

@@ -1,16 +1,10 @@
 =head1 NAME
 
-Bio::Tools::ProteinogenicAA - The great new Bio::Tools::ProteinogenicAA!
-
-=head1 VERSION
-
-Version 0.01
+Bio::Tools::ProteinogenicAA - A object list of proteinogenic amino acids.
 
 =head1 SYNOPSIS
 
 Quick summary of what the module does.
-
-Perhaps a little code snippet.
 
     use Bio::Tools::ProteinogenicAA;
 
